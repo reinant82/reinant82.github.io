@@ -11,7 +11,23 @@
 p {
 color: white;
 {
-h1
+h1{
+font-size: 20px;
+}
+p{
+font-size: 12px;
+}
+p{
+color: green;
+}
+div {
+:dotted;
+width: 2px;
+width: 100px;
+height: 100px;
+}
+.class
+
 <meta http-equiv=“Content-Type” content=“text/html; charset=iso-8859-1”>
 <title>Portfolio</title>
 <link href=“styles.css” rel=“stylesheet” type=“text/css”>
