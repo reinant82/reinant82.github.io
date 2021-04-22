@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
    <head> 
+<meta http-equiv=“Content-Type” content=“text/html; charset=iso-8859-1”>
 <link href=“styles.css” rel=“stylesheet” type=“text/css”>
-   <head/>
+    <head/>
 
    <h1>This is my second HTML page in Laurea Foundations of Web Development course.</h1>
  
